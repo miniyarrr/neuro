@@ -1,1 +1,1 @@
-DataBase structure: https://github.com/miniyarrr/neuro.git
+DataBase structure: https://dbdiagram.io/d/618c828402cf5d186b506ed2
